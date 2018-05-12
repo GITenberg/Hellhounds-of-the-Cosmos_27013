@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25185
     wikipedia: http://en.wikipedia.org/wiki/Clifford_D._Simak
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27013#Hellhounds-of-the-Cosmos
 gutenberg_bookshelf:
 - Astounding Stories
 - Science Fiction
